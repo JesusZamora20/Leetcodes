@@ -24,3 +24,6 @@
 
 ------------
 
+### Sliding Window 
+- **643** Maximum Average Subarray I
+- **1456** Maximum Number of Vowels in a Substring of Given Length
